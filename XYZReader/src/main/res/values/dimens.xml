@@ -6,6 +6,11 @@
 
     <dimen name="cardview_margin">4dp</dimen>
 
+    <dimen name="article_title_padding">16dp</dimen>
+    <dimen name="article_title_padding_bottom">4dp</dimen>
+
+    <dimen name="article_subtitle_padding">16dp</dimen>
+
     <dimen name="fab_elevation">2dp</dimen>
     <dimen name="fab_press_translation_z">6dp</dimen>
     <dimen name="fab_margin">24dp</dimen>

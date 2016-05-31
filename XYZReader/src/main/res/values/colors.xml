@@ -22,6 +22,8 @@
     <color name="theme_accent">#04561A</color>
     <color name="ltgray">#ffe0e0e0</color>
 
+    <color name="subtitle_color">#6000</color>
+
     <!--My Color-->
     <color name="cyan_200">#80DEEA</color>
     <color name="cyan_700">#0097A7</color>
