@@ -23,7 +23,12 @@
     <color name="ltgray">#ffe0e0e0</color>
 
     <color name="subtitle_color">#6000</color>
+    <color name="detail_background">#fff</color>
 
+    <color name="article_title_background">#333</color>
+
+    <color name="detail_artical_title">#fff</color>
+    <color name="detail_article_byline">#8fff</color>
     <!--My Color-->
     <color name="cyan_200">#80DEEA</color>
     <color name="cyan_700">#0097A7</color>
